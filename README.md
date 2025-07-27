@@ -84,24 +84,3 @@ You are free to use and modify it.
 ---
 
 
----
-
-## **How It Works (Screenshots)**
-
-Below are some example screenshots of the Food Delivery App (replace with your actual screenshots):
-
-### **1. Home Page**
-![Home Page](./screenshots/homepage.png)
-
-### **2. Menu Page**
-![Menu Page](./screenshots/menu.png)
-
-### **3. Cart & Checkout**
-![Cart Page](./screenshots/cart.png)
-
-### **4. Order Confirmation**
-![Order Confirmation](./screenshots/order-confirmation.png)
-
-> **Tip:** Store all your screenshots in a `frontend/screenshots/` folder and update the paths in this README.
-
----
